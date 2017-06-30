@@ -3,6 +3,8 @@ description: In this hands-on workshop you will cover a series of modules that g
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+encoding: UTF-8
+repository: Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite
 
 gems:
   - jekyll-mentions
