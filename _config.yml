@@ -5,6 +5,7 @@ google_analytics:
 theme: jekyll-theme-minimal
 encoding: UTF-8
 repository: Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite
+github: [metadata]
 
 gems:
   - jekyll-mentions
