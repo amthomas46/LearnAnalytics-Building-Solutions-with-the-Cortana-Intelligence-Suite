@@ -2,7 +2,7 @@ title: Building Solutions with the Cortana Intelligence Suite
 description: In this hands-on workshop you will cover a series of modules that guide you from understanding an analytics workload, using the Team Data Science Process, the Cortana Intelligence Suite Platform, the foundations of data transfer and storage, data source documentation, storage and analytics processing using various tools in a comprehensive solution.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 encoding: UTF-8
 repository: Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite
 
