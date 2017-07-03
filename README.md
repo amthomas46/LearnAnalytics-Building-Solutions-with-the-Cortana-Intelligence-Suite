@@ -21,7 +21,6 @@ Course Materials
 </p>
 <div class="collapse" id="collapseExample">
 <div class="card card-block">
-<p><a href="https://1drv.ms/x/s!AvtncuuqXqYrkvcMcNaHEOoLkKb74A" target="_blank">Sign-in and Survey link  (Log in and select "Edit in Browser")</a></p>
 <p><a href="Resources/Resources.zip" target="_blank">Resource files, labs, and assignments for this class</a></p>
 <p><a href="http://www.sumatrapdfreader.org/dl/SumatraPDF-3.1.2-64.zip" target="_blank">Small PDF Reader</a></p>
 </div>
@@ -53,12 +52,7 @@ Course Materials
 </div>
 </div>
 </div>
-<!-- jQuery first, then Tether, then Bootstrap JS. -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" integrity="sha384-3ceskX3iaEnIogmQchP8opvBy3Mi7Ce34nWjpBIwVTHfGYWQS9jwHDVRnpKKHJg7" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.3.7/js/tether.min.js" integrity="sha384-XTs3FgkjiBgo8qjEjBk0tGmf3wPrWtA6coPfQDfFEY8AnYJwjalXCiosYRBIBZX8" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>
-</body>
-</html>
+
 # Contributing
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
