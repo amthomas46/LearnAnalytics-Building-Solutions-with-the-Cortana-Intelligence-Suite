@@ -1,53 +1,73 @@
-Course Number: 
-CISW002
-
-Course Topics:
-Cortana Intelligence
-
-Intended Audience:
-Technical professionals (Data Scientists, Database Professionals, Analysts, BI Professionals) who are familiar with building solutions but not familiar with the entire CIS Platform of products. 
-
-Course Level:
-Intermediate
-
-Title: 
-Building Solutions with the Cortana Intelligence Suite
-
-Description:
-In this hands-on workshop you’ll cover a series of modules that guide you from understanding an analytics workload, using the Team Data Science Process, the Cortana Intelligence Suite Platform, the foundations of data transfer and storage, data source documentation, storage and analytics processing using various tools in a comprehensive solution.
-
-About the Course:
-In this workshop you’ll cover a series of modules that guide you from understanding an analytics workload, using the Team Data Science Process, the Cortana Intelligence Suite Platform, the foundations of data transfer and storage, data source documentation, storage and analytics processing using various tools in a comprehensive solution. You’ll learn how to work through a real-world scenario using the Cortana Intelligence Suite tools, including the Microsoft Azure Portal, PowerShell, and Visual Studio, among others. You'll learn how to leverage the Cortana Intelligence Solution Portal to rapidly deploy a pre-configured solution, and you'll learn how to modify a solution for a real-world implementation.
-
-This course is designed to take approximately one to two days, depending on what is covered and how many of the labs are done in-class. The longer course is marked (Extended Class). All materials are provided regardless of the length of the course. 
-
-Prerequisites:
-There are a few things you will need in order to properly follow the course materials:
-
-A subscription to Microsoft Azure (this may be provided through your company or as part of your invitation – you must have this enabled prior to class – you will be using Azure throughout the course, for all labs, work and exercises). You can use your MSDN subscription – https://azure.microsoft.com/en-us/pricing/memberoffers/msdn-benefits/, your employer may provide Azure resources to you, but make sure you check to see if you can deploy assets and that they know you’ll be using their subscription in the class. 
-
-A laptop capable of using the Remote Desktop Protocol (RDP) - all lab work will be done on the Microsoft Azure Windows Data Science Machine.
-
+Creating Solutions with Microsoft Advanced Analytics – Train the Trainer
+ 
+There are many resources you can use to learn the technologies Microsoft has for advanced analytics, such as documentation sites, the Microsoft Virtual Academy and more. Each of these resources can lead your customers through the specifics of Machine Learning, the Azure Data Catalog, Microsoft R and more to a very detailed level. But the amount of documentation and the spread of platforms it lives on can be overwhelming not just for the customer, but for the technical and business teams that face the customer who wants to implement an advanced analytics solution.
+ 
+The “Building Solutions with Cortana Intelligence” course leads a technical professional through 2 days of intensive, hands-on, lab-based instruction by the AI and Research team. This course has been taught at multiple locations around the world. It uses the Team Data Science Process (TDSP) and multiple technologies to guide the team through an end-to-end solution highlighting multiple technologies from ingestion, inspection, processing, routing, Machine Learning, and consumption of the results. The customer gets a “big picture” with a high level of detail and multiple resources to be successful.
+ 
+This one-day session is aimed at the trainer for this course. It’s designed to explain how the course works, what you need to learn to teach it, and how to run the class. It also covers how to alter the course to a one-day or half-day course, and how to break apart the modules and topics into smaller content, customer demos, or presentations. You’ll also learn how to edit the material to use a customer solution in place of the solution in the course, as a possible demo or POC. You’ll receive all instruction, labs, and resources you need to redeliver and redesign the course.
+ 
 Agenda:
-Module 1: Setup and Environment - Understanding the Azure Platform, DevOps for Data Science, and Toolkits
-Module 2: Business Understanding - Defining objectives, data source vetting, creating design document, creating decision matrix, selecting solution elements, data flow
-Module 3: Data Acquisition and Understanding - Ingest data, explore data, update data
-Module 4: Modeling - Feature Selection, Create and train model
-Module 5: Deployment - Operationalize
-Module 6: Customer Acceptance - Testing and validation, Handoff, Re-train and re-score
+ 
+1.	Introduction and Overview
+
+2.	Full Course Training 
+	a.	Setting up the course
+	b.	Resources the customer needs
+	c.	Timing and classroom management
+	d. 	Course Content overview (you can use this to advertise your course)
+
+			Course Number: 
+			CISW002
+
+			Course Topics:
+			Cortana Intelligence
+
+			Intended Audience:
+			Technical professionals (Data Scientists, Database Professionals, Analysts, BI Professionals) who are familiar with building solutions but not familiar with the entire CIS Platform of products. 
+
+			Course Level:
+			Intermediate
+
+			Title: 
+			Building Solutions with the Cortana Intelligence Suite
+
+			Description:
+			In this hands-on workshop you’ll cover a series of modules that guide you from understanding an analytics workload, using the Team Data Science Process, the Cortana Intelligence Suite Platform, the foundations of data transfer and storage, data source documentation, storage and analytics processing using various tools in a comprehensive solution.
+
+			About the Course:
+			In this workshop you’ll cover a series of modules that guide you from understanding an analytics workload, using the Team Data Science Process, the Cortana Intelligence Suite Platform, the foundations of data transfer and storage, data source documentation, storage and analytics processing using various tools in a comprehensive solution. You’ll learn how to work through a real-world scenario using the Cortana Intelligence Suite tools, including the Microsoft Azure Portal, PowerShell, and Visual Studio, among others. You'll learn how to leverage the Cortana Intelligence Solution Portal to rapidly deploy a pre-configured solution, and you'll learn how to modify a solution for a real-world implementation.
+
+			This course is designed to take approximately one to two days, depending on what is covered and how many of the labs are done in-class. The longer course is marked (Extended Class). All materials are provided regardless of the length of the course. 
+
+			Prerequisites:
+			There are a few things you will need in order to properly follow the course materials:
+
+			A subscription to Microsoft Azure (this may be provided through your company or as part of your invitation – you must have this enabled prior to class – you will be using Azure throughout the course, for all labs, work and exercises). You can use your MSDN subscription – https://azure.microsoft.com/en-us/pricing/memberoffers/msdn-benefits/, your employer may provide Azure resources to you, but make sure you check to see if you can deploy assets and that they know you’ll be using their subscription in the class. 
+
+			A laptop capable of using the Remote Desktop Protocol (RDP) - all lab work will be done on the Microsoft Azure Windows Data Science Machine.
+
+			Agenda:
+			Module 1: Setup and Environment - Understanding the Azure Platform, DevOps for Data Science, and Toolkits
+			Module 2: Business Understanding - Defining objectives, data source vetting, creating design document, creating decision matrix, selecting solution elements, data flow
+			Module 3: Data Acquisition and Understanding - Ingest data, explore data, update data
+			Module 4: Modeling - Feature Selection, Create and train model
+			Module 5: Deployment - Operationalize
+			Module 6: Customer Acceptance - Testing and validation, Handoff, Re-train and re-score
 
 
-Skills taught:
-Understand the CIS Process (General level), Understand CIS Components (General Level), Set up and configure the development environment 
+			Skills taught:
+			Understand the CIS Process (General level), Understand CIS Components (General Level), Set up and configure the development environment 
+			Understand how to source and vet proper data, Understand feature selection, Understand Azure Storage Options, Use various methods to ingest data into Azure Storage, Examine data stored in Azure Storage, Use various tools to explore data 
+			Understand ADF and its constructs, Implement an ADF Pipeline referencing Data Sources and with various Activities including on-demand HDInsight Clusters, 
+			Understand how to use Azure ML and how experiments are created, Understand how MRS can be used to perform Machine Learning experiments, Use ADF to schedule Azure ML Activities 
+			Understand how to evaluate the efficacy and performance of an Azure ML experiment, Understand how to evaluate the efficacy and performance of an MSR ML experiment, Access and show data from Azure Storage, Access, and Query Azure SQL DB 
+			Understand how to publish an Azure ML API, Understand the access methods of Azure Storage and Intelligent Processing, Understand the options to send a HIVE query to an HDI system, Use Power BI to query the results of a solution and create reports in Power BI Desktop, Power BI Service, and Power BI in Microsoft Excel 
+			Understand when to use each component within CIS
 
-Understand how to source and vet proper data, Understand feature selection, Understand Azure Storage Options, Use various methods to ingest data into Azure Storage, Examine data stored in Azure Storage, Use various tools to explore data 
+3.	Course Content Alteration 
+	a.	Creating a one day and half day course
+	b.	Course Customization 
+			1.	Creating sub-courses on each Module
+			2.	Creating sub-courses on each Topic
+	c.	Substituting your customer’s scenario
 
-Understand ADF and its constructs, Implement an ADF Pipeline referencing Data Sources and with various Activities including on-demand HDInsight Clusters, 
-
-Understand how to use Azure ML and how experiments are created, Understand how MRS can be used to perform Machine Learning experiments, Use ADF to schedule Azure ML Activities 
-
-Understand how to evaluate the efficacy and performance of an Azure ML experiment, Understand how to evaluate the efficacy and performance of an MSR ML experiment, Access and show data from Azure Storage, Access, and Query Azure SQL DB 
-
-Understand how to publish an Azure ML API, Understand the access methods of Azure Storage and Intelligent Processing, Understand the options to send a HIVE query to an HDI system, Use Power BI to query the results of a solution and create reports in Power BI Desktop, Power BI Service, and Power BI in Microsoft Excel 
-
-Understand when to use each component within CIS
