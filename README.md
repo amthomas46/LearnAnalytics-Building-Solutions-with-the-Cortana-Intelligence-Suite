@@ -15,13 +15,10 @@
 <hr class="my-2">
 <p class="lead">
 <a class="btn btn-primary" href="http://learnanalytics.microsoft.com/home/index" role="button" target="_blank">Learn more</a>
-<a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-Course Materials
-</a>
 </p>
 <div class="collapse" id="collapseExample">
 <div class="card card-block">
-<p><a href="Resources/Resources.zip" target="_blank">Resource files, labs, and assignments for this class</a></p>
+<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/tree/master/Students" target="_blank">Resource files, labs, and assignments for this class</a></p>
 <p><a href="http://www.sumatrapdfreader.org/dl/SumatraPDF-3.1.2-64.zip" target="_blank">Small PDF Reader</a></p>
 </div>
 </div>
@@ -32,12 +29,12 @@ Course Materials
 <div class="card card-block">
 <h3 class="card-title">Course Modules</h3>
 <p class="card-text">Creating Advanced Analytic Solutions with the Team Data Science Process and the Cortana Intelligence Platform</p>
-<p><a href="Modules/BuildingSolutionsWithCIS-1-Setup.pdf" target="_blank" class="card-link">1 - Environment Setup and Configuration</a></p>
-<p><a href="Modules/BuildingSolutionsWithCIS-2-BusinessUnderstanding.pdf" target="_blank" class="card-link">2 - Business Understanding</a></p>
-<p><a href="Modules/BuildingSolutionsWithCIS-3-DataAcquisitionAndUnderstanding.pdf" target="_blank" class="card-link">3 - Data Acquisition and Understanding</a></p>
-<p><a href="Modules/BuildingSolutionsWithCIS-4-Modeling.pdf" target="_blank" class="card-link">4 - Modeling</a></p>
-<p><a href="Modules/BuildingSolutionsWithCIS-5-Deployment.pdf" target="_blank" class="card-link">5 - Deployment</a></p>
-<p><a href="Modules/BuildingSolutionsWithCIS-6-CustomerAcceptance.pdf" target="_blank" class="card-link">6 - Customer Acceptance</a></p>
+<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithCIS-1-Setup.docx" target="_blank" class="card-link">1 - Environment Setup and Configuration</a></p>
+<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithCIS-2-BusinessUnderstanding.docx" target="_blank" class="card-link">2 - Business Understanding</a></p>
+<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithCIS-3-DataAcquisitionAndUnderstanding.docx" target="_blank" class="card-link">3 - Data Acquisition and Understanding</a></p>
+<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithCIS-4-Modeling.docx" target="_blank" class="card-link">4 - Modeling</a></p>
+<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithCIS-5-Deployment.docx" target="_blank" class="card-link">5 - Deployment</a></p>
+<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithCIS-6-CustomerAcceptance.docx" target="_blank" class="card-link">6 - Customer Acceptance</a></p>
 </div>
 </div>
 <div class="row">
