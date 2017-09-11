@@ -11,13 +11,13 @@ Course Level:
 Intermediate
 
 Title: 
-Building Solutions with the Cortana Intelligence Suite
+Building Solutions with the Microsoft Business Analytics and AI Platform
 
 Description:
-In this hands-on workshop you’ll cover a series of modules that guide you from understanding an analytics workload, using the Team Data Science Process, the Cortana Intelligence Suite Platform, the foundations of data transfer and storage, data source documentation, storage and analytics processing using various tools in a comprehensive solution.
+In this hands-on workshop you’ll cover a series of modules that guide you from understanding an analytics workload, using the Team Data Science Process, the Microsoft Business Analytics and AI Platform, the foundations of data transfer and storage, data source documentation, storage and analytics processing using various tools in a comprehensive solution.
 
 About the Course:
-In this workshop you’ll cover a series of modules that guide you from understanding an analytics workload, using the Team Data Science Process, the Cortana Intelligence Suite Platform, the foundations of data transfer and storage, data source documentation, storage and analytics processing using various tools in a comprehensive solution. You’ll learn how to work through a real-world scenario using the Cortana Intelligence Suite tools, including the Microsoft Azure Portal, PowerShell, and Visual Studio, among others. You'll learn how to leverage the Cortana Intelligence Solution Portal to rapidly deploy a pre-configured solution, and you'll learn how to modify a solution for a real-world implementation.
+In this workshop you’ll cover a series of modules that guide you from understanding an analytics workload, using the Team Data Science Process, the Microsoft Business Analytics and AI Platform, the foundations of data transfer and storage, data source documentation, storage and analytics processing using various tools in a comprehensive solution. You’ll learn how to work through a real-world scenario using the Microsoft Business Analytics and AI tools, including the Microsoft Azure Portal, PowerShell, and Visual Studio, among others. You'll learn how to leverage the Cortana Intelligence Solution Portal to rapidly deploy a pre-configured solution, and you'll learn how to modify a solution for a real-world implementation.
 
 This course is designed to take approximately one to two days, depending on what is covered and how many of the labs are done in-class. The longer course is marked (Extended Class). All materials are provided regardless of the length of the course. 
 
@@ -38,7 +38,7 @@ Module 6: Customer Acceptance - Testing and validation, Handoff, Re-train and re
 
 
 Skills taught:
-Understand the CIS Process (General level), Understand CIS Components (General Level), Set up and configure the development environment 
+Understand the Team Data Science Process (General level), Understand Microsoft Business Analytics and AI Components (General Level), Set up and configure the development environment 
 
 Understand how to source and vet proper data, Understand feature selection, Understand Azure Storage Options, Use various methods to ingest data into Azure Storage, Examine data stored in Azure Storage, Use various tools to explore data 
 
@@ -50,4 +50,4 @@ Understand how to evaluate the efficacy and performance of an Azure ML experimen
 
 Understand how to publish an Azure ML API, Understand the access methods of Azure Storage and Intelligent Processing, Understand the options to send a HIVE query to an HDI system, Use Power BI to query the results of a solution and create reports in Power BI Desktop, Power BI Service, and Power BI in Microsoft Excel 
 
-Understand when to use each component within CIS
+Understand when to use each component within Microsoft Business Analytics and AI
